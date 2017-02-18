@@ -1,0 +1,58 @@
+.animationDiv{
+	border : 1px solid #c7c7c7;
+	height : 330px;
+	width : 300px;		
+	margin-top : 21%;
+	margin-left : Auto;	
+	padding : 0% 2% 0% 3%;
+	box-shadow: 0px 0px 3px -1px black;
+	font-family:Arial;
+	position : absolute;
+	right:999em;
+	-webkit-transition : right 5s ease-in-out;
+}
+.animation{
+right:0em;
+}
+.closeButton{		
+	float:right;
+}
+.innerDiv{
+	/*border : 1px solid black;	
+	padding-left : 1%;*/
+	margin-top: 5%;
+    margin-right: 5%;
+}
+img {
+  max-width:100%;
+max-height:auto;
+}
+.imgLeftDiv{
+width:48%;
+float:left;
+height : 100px;
+    border: 0.5px solid #dfe0db;
+}
+.imgRightDiv{
+width:49%;
+float:right;
+height : 100px;
+    border: 0.5px solid #dfe0db;
+}
+.leftImg{
+width:49%;
+float:left;
+}
+.rightImg{
+width:49%;
+float:right;
+}
+.descriptionDiv{
+border: 1px solid #dfe0db;    
+    float: left;
+    background-color: #eeeeee;    
+    height: 60px;
+    padding: 15%;
+	font-family:Arial;
+}
+
